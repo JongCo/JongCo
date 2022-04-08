@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JongCo
 - 👀 I’m interested in Dancing
-- 🌱 I’m currently learning Bass Guitar
+- 🌱 I’m currently learning Communication on VR World
 - 💞️ I’m looking to collaborate on Conquest the EARTH
 - 📫 How to reach me was Telepathy
 
