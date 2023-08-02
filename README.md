@@ -3,7 +3,7 @@ JongCo/JongCo is a ✨ special ✨ repository because its `README.md` (this file
 You can click the Preview link to take a look at your changes.
 --->
 
-# 안녕하십니까. 개발자 JongCo(김종수) 입니다!
+# 안녕하십니까! JongCo(김종수) 입니다!
 
 ## About Me
 
