@@ -7,7 +7,7 @@ You can click the Preview link to take a look at your changes.
 
 ## About Me
 
-어렸을 때 부터 IT기술에 관심이 많았고, 아직까지도 그 흥미를 잃지 않았습니다. 저는 자신이 작성한 알고리즘을 통해 특정 기능을 구현하거나 기여하는 것에 열정을 느낍니다. 현재는 학습을 위해 진행하고 있는 2인 팀 프로젝트인 나도하루 SNS 서비스의 [백엔드](https://github.com/GuitarCoders/nadoharu-api-server) 개발을 주로 진행하고 있습니다.
+어렸을 때 부터 IT기술에 관심이 많았고, 아직까지도 그 흥미를 잃지 않았습니다. 저는 자신이 작성한 알고리즘을 통해 특정 기능을 구현하거나 기여하는 것에 열정을 느낍니다.
 
 
 ## 기술 스택
